@@ -10,6 +10,9 @@
 
 ## WARM UP QUIZ
 
+# What is a data type?
+# In Computer Science and Computer Programming, a data type (also called simply "type) is a collection of data values that are either a set of possible values, a set of permitted operations for certain values, or values represented by machine type. By constraining possible values, data types allow interpreters and/or compilers to efficiently use certain data in the manner that a programmer wishes it to be use. As a result, many programming languages support basic data types of integers (no matter the size), floating-point numbers (approximations of real numbers, usually labeled as "float"), characters, and Booleans (a data type used in True/False variables and lines of code).
+
 # PART I
 a = 5
 b = 5.0
